@@ -252,6 +252,10 @@ mark {
     font-size: 0.9em;
   }
 
+  #social li{
+    padding:3.5%;
+  }
+
   #social a{
     font-size: 1.1em;
   }
@@ -264,6 +268,10 @@ mark {
 
   #films div{
     padding-bottom: 0px;
+  }
+
+  #films img{
+    height: 10vh;
   }
 
   .justify{
