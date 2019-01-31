@@ -83,6 +83,12 @@ body {
   text-align: center;
 }
 
+#films img{
+  height: 20vh;
+  width: auto;
+  margin: auto;
+}
+
 #favorite {
   text-align: center;
   margin: auto;
@@ -101,13 +107,6 @@ mark {
   display: flex;
 }
 
-
-#oddyseyimage img {
-  height: 20vh;
-  width: auto;
-  margin: auto;
-}
-
 #oddyseydesc {
   padding: 20px;
   text-align: center;
@@ -124,12 +123,6 @@ mark {
   display: flex;
 }
 
-#vacancesimage img {
-  height: 20vh;
-  width: auto;
-  margin: auto;
-}
-
 #vacancesdesc {
   padding: 20px;
   text-align: center;
@@ -141,12 +134,6 @@ mark {
   margin: auto;
   padding: 20px;
   display: flex;
-}
-
-#alienimage img {
-  height: 20vh;
-  width: auto;
-  margin: auto;
 }
 
 #aliendesc {
